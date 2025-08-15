@@ -7,7 +7,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-green)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-lightblue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/HR-Data-Analytics)
 
 ---
 
@@ -17,7 +16,6 @@
 - [🛠 Tools & Technologies](#-tools--technologies)
 - [🔍 Workflow](#-workflow)
 - [📊 Key Insights](#-key-insights)
-- [📂 Repository Structure](#-repository-structure)
 - [📈 Business Impact](#-business-impact)
 - [📎 Dataset Source](#-dataset-source)
 
@@ -60,4 +58,24 @@ The **HR Data Analytics** project aims to uncover trends, patterns, and key fact
 
 ---
 
-## 📂 Repository Structure
+
+---
+
+## 📈 Business Impact
+By applying the insights from this analysis, organizations can:
+- Reduce attrition through targeted HR policies.
+- Enhance job satisfaction with data-backed strategies.
+- Optimize hiring and workforce planning.
+
+---
+
+## 📎 Dataset Source
+Dataset used: [HR Analytics Dataset](https://www.kaggle.com/datasets) *(replace with actual dataset link)*
+
+---
+
+## 🤝 Connect with Me
+📧 Email: shaikrizwanabegum153@gmail.com  
+💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📂 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+
