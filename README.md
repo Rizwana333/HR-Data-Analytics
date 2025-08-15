@@ -75,7 +75,9 @@ Dataset used: https://docs.google.com/spreadsheets/d/1FkDEbK2HCpb6qXgWTb5B0oNaBR
 ---
 
 ## 🤝 Connect with Me
+🎓 Senior Undergraduate Student | Aspiring Data Analyst
+💼 Interested in Data Analytics, Python, and Business Intelligence
 📧 Email: shaikrizwanabegum153@gmail.com  
-💼 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-📂 GitHub: [Your GitHub Profile](https://github.com/yourusername)
+💼 LinkedIn: https://www.linkedin.com/in/shaik-rizwana-begum-459a46269 
+📂 GitHub: https://github.com/Rizwana333
 
